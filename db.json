@@ -1,0 +1,72 @@
+{
+  "utilisateurs": [
+    {
+      "id":1,
+      "nom": "wick",
+      "prenom": "john",
+      "motDePasse": "wick"
+    },
+    {
+      "id":2,
+      "nom": "travolta",
+      "prenom": "john",
+      "motDePasse": "travolta"
+    }
+  ],
+  "produits": [
+    {
+      "designation": "chapeau",
+      "prixUnitaire": 32,
+      "quantiteEnStock": 34,
+      "id": 1
+    },
+    {
+      "id": 2,
+      "designation": "souris",
+      "prixUnitaire": 20,
+      "quantieteEnStock": 200,
+      "chemin": "",
+      "quantiteEnStock": 56
+    },
+    {
+      "id": 3,
+      "designation": "disque dur externe",
+      "prixUnitaire": 200,
+      "quantieteEnStock": 20,
+      "chemin": "",
+      "quantiteEnStock": 32
+    },
+    {
+      "id": 4,
+      "designation": "lecteur optique",
+      "prixUnitaire": 120,
+      "quantieteEnStock": 30,
+      "chemin": "",
+      "quantiteEnStock": 31
+    },
+    {
+      "designation": "pull",
+      "prixUnitaire": 99,
+      "quantiteEnStock": 34,
+      "id": 5
+    },
+    {
+      "designation": "Robe Rouge",
+      "prixUnitaire": 126,
+      "quantiteEnStock": 34,
+      "id": 6
+    },
+    {
+      "designation": "Robe",
+      "prixUnitaire": 146,
+      "quantiteEnStock": 34,
+      "id": 7
+    },
+    {
+      "designation": "FRuit",
+      "prixUnitaire": 45,
+      "quantiteEnStock": 43,
+      "id": 8
+    }
+  ]
+}
