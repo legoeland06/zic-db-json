@@ -1,4 +1,29 @@
 {
+   "articles": [
+    {
+      "id":1,
+      "categorie":2,
+      "titre": "le nom de la rose",
+      "auteur":"Ucrei Nabure",
+      "prixUnitaire":32
+
+    },
+      "id":2,
+      "categorie": 1,
+      "titre":"play-mobil",
+      "prixUnitaire":24
+    }
+  ], 
+ "categories": [
+    {
+      "id":1,
+      "denomination": "jouets"
+    },
+    "id":2,
+      "denomination": "litterature"
+    }
+   
+  ], 
   "utilisateurs": [
     {
       "id":1,
