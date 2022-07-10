@@ -8,6 +8,7 @@
       "prixUnitaire":32
 
     },
+      {
       "id":2,
       "categorie": 1,
       "titre":"play-mobil",
@@ -19,6 +20,7 @@
       "id":1,
       "denomination": "jouets"
     },
+    {
     "id":2,
       "denomination": "litterature"
     }
