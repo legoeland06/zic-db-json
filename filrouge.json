@@ -1,5 +1,4 @@
 {
-  
     "produits":[
       {
         "id_produit":1,
@@ -97,23 +96,23 @@
   "editeurs":[
     {
     "id_editeur":1,
-    "maison":"flaubert",
+    "maison":"flaubert"
     },
     {
     "id_editeur":2,
-    "maison":"super",
+    "maison":"super"
     },
     {
     "id_editeur":3,
-    "maison":"terrible",
+    "maison":"terrible"
     },
     {
     "id_editeur":4,
-    "maison":"de ouf",
+    "maison":"de ouf"
     },
     {
     "id_editeur":5,
-    "maison":"trop du ballon",
+    "maison":"trop du ballon"
     }
   ]
 }
